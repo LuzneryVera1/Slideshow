@@ -1,0 +1,34 @@
+                .mySlides {
+                display: none;
+                background: #E84B02;
+            }
+            
+            html,
+            body {
+                height: 100%;
+                overflow: hidden;
+                background: radial-gradient(circle at center, #B71F1F, #A02525);
+            }
+            
+            h2 {
+                font-family: 'vivaldi';
+                color: #fff;
+                margin-top: 50px;
+                font-size: 40px;
+                text-shadow: 0 .1rem .1rem rgba(0, 0, 0, .5);
+            }
+            
+            h1 {
+                font-family: 'Leelawadee', sans-serif;
+                color: #fff;
+            }
+            .bg-1 {
+                    margin-top:  15px;
+                    margin-bottom: 40px;
+                }
+
+          footer {
+            margin-top: 600px;
+            padding: 0px;
+            margin: 0px;
+          }
